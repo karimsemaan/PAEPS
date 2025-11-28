@@ -1,0 +1,1001 @@
+email_index,priority,reasoning
+1,1,"No actionable request, appears to be spam"
+2,1,"Just a thank you note, no action required"
+4,1,Informational reminder about a training workshop
+5,2,Requires a response to discuss settlement implications
+7,1,Promotional spam with no required action
+8,1,"Informational newsletter, no action required"
+9,1,"Informational email about meetings, no immediate action required"
+10,1,"Just a clarification request, no urgent action needed"
+12,1,Informational news with no required action
+13,1,It's an informational newsletter with no required action
+14,2,"User requests removal from mailing list, requires action but not urgent"
+15,2,Requires response but not urgent
+17,1,Informal comment with no required action
+18,1,Informational forward with no clear action required
+19,1,"Spam advertisement, no action required"
+20,2,Needs a friendly reply but not urgent
+21,1,"Provides info, no action required"
+23,1,Promotional spam with no required action
+24,1,Donation solicitation with no urgent action required
+25,2,"User requests confirmation and document generation, needing a response but not urgent"
+26,1,"Promotional event announcement, no action required"
+27,1,Informational update with no immediate action required
+28,2,Needs clarification response but not urgent
+29,1,Informational note with no urgent action required
+30,1,Informational update about job posting with no immediate action required
+31,1,Informational newsletter with no required action
+34,2,Requires action on confirmation format but not urgent
+35,1,"Informational forward about a future event, no action required"
+36,1,Informational newsletter with no actionable request
+38,1,"Informational newsletter, no action required"
+39,1,"No actionable request, appears to be spam"
+40,1,Email contains only a brief comment with no actionable request
+41,2,Request to remove a contact from mailing lists requires action but is not urgent
+42,2,Needs a timely response about tomorrow's travel plans
+43,2,Requires a prompt response to address unexpected weekend conflicts
+44,1,"Thank you note, no action required"
+45,1,Informational email with no action required
+46,1,Informational thank-you email with no required action
+48,2,Sender asks for a response but no urgency indicated
+50,1,Simple confirmation with no further action required
+51,1,"Promotional travel offer, no immediate action required"
+52,2,Needs clarification on development fee with accountants
+53,1,"No actionable request, informational only"
+54,2,Requires action before the October 26 deadline
+56,1,"Informational security update, no action required"
+57,1,Informational update with no required action
+59,1,"Casual inquiry about resume, no urgent action required"
+60,1,"Promotional content, no action required"
+61,1,Email contains only informational news with no required action
+62,2,Scheduling availability requires a response but is not urgent
+63,1,Informational forward with no required action
+64,1,"Informational list of articles, no action required"
+65,1,"Informational conference announcement, no action required"
+66,2,Request for document requires a response and action
+67,1,Acknowledgment with no action required
+68,1,"Email confirms a scheduled meeting, no further action required"
+69,1,Promotional conference announcement with no required action
+70,1,"Spam advertisement, no action required"
+71,1,"Promotional spam, no action required"
+72,1,Informational announcement with no required action
+73,1,Informational message with no action required
+74,1,Informational email with no clear action required
+75,2,Needs response to confirm meeting availability
+76,1,Informational content with no actionable request
+77,2,Follow-up email requires a response but is not urgent
+78,1,The email only confirms availability and requires no further action
+79,1,"Promotional marketing email, no action required"
+80,1,"Informational newsletter, no action required"
+81,2,"Needs response to coordinate a meeting, but not urgent"
+83,1,Promotional spam with no required action
+85,2,Requires user response but not urgent
+86,2,General delegation request without urgency
+88,1,"Informational tip, no action required"
+89,1,Promotional spam with no required action
+90,2,Sender is resending an attachment and likely expects a response
+91,1,Informational FYI with no action required
+92,1,"Forwarded informational email, no action required"
+93,2,Needs clarification response but not urgent
+94,1,"Promotional spam, no action needed"
+95,1,Informational event reminder with no required response
+96,3,Potential virus alert requires immediate attention
+97,1,Informational newsletter with no required action
+98,1,Email appears to be informational with no clear action required
+99,1,Informational announcement with no required action
+100,1,"Forwarded email lacks actionable request, likely informational"
+101,2,Decision needed on co-chair role
+102,1,"Informational news article, no action required"
+104,1,"Informational announcement about a print sale, no action required"
+105,2,Request for action but no urgent deadline
+106,2,"Request for program details and inquiry, requires response but not urgent"
+107,1,"Informational travel reminder, no response required"
+108,1,"Promotional spam, no action required"
+110,2,Data request needs response but no urgent deadline
+111,2,"Invitation to go kayaking, needs a reply but not urgent"
+115,2,Suggestion requires a response but is not urgent
+117,1,Forwarded message appears informational with no clear action required
+118,1,"Spam promotional email, no action needed"
+119,1,Promotional email with no required action
+120,1,Informational update about a Senate hearing
+121,1,"Promotional content, no action required"
+123,1,"Promotional travel deals, no action required"
+124,1,FYI informational update with no required action
+125,1,Marketing newsletter with no required action
+126,1,"Informational announcement about a bowling event, no urgent action required"
+127,2,"Request for fax machine selection, needs a response but not urgent"
+128,3,Urgent deadline requires immediate timesheet approval
+129,1,"Informational newsletter, no action needed"
+130,1,Informational forward with no required action
+131,1,"Friendly update, no action needed"
+132,2,Contains a request for action but no urgent deadline
+133,1,"Contains only news updates, no action required"
+134,3,Deadline requires action by Oct 26
+135,1,"Informational conference announcement, no action required"
+138,1,Forwarded email appears informational with no clear action required
+140,1,"Informational weekly report, no action required"
+141,2,Needs response to discuss trip plans
+143,2,Needs coordination for release schedule
+145,1,Email contains no actionable request or urgent information
+146,1,"Informational email about billing assumptions, no action required"
+147,1,"Informational sports update, no action required"
+148,1,Informational update with no required action
+149,2,Contains actionable concern about production estimates
+150,1,Informational email about a domain change
+151,2,Follow-up on pending action items requires a response
+152,1,Promotional email with no required action
+153,1,"Contains only forwarded content and advertisement, no actionable request"
+155,1,"Informational newsletter, no action required"
+156,2,Request for payment reminder by Monday
+157,1,Forwarded image with no actionable request
+158,1,"Promotional spam, no action required"
+159,2,"Request for ideas and assistance, not time-sensitive"
+160,2,Schedule confirmation and coordination needed
+161,2,Upgrade announcement contains deadlines requiring user action
+162,1,Promotional spam with no required action
+164,3,Potential terrorist threat requires immediate attention
+165,1,Informational marketing content with no required action
+166,2,Needs correction before Friday deadline
+167,1,"Informational newsletter, no action required"
+168,1,"Informational newsletter, no action required"
+169,2,The email requests a response regarding the eCommerce working group
+171,1,It's a newsletter with no actionable request
+172,2,Needs response to confirm title
+173,1,It's an informational newsletter with no required action
+174,1,"Promotional spam, no action required"
+175,2,Question about account application details requires a response
+176,2,Requires timely response to meet voting deadline
+177,2,Needs response and discussion before Friday deadline
+178,1,Clarification with no required action
+179,3,Medical alert indicates urgent attention
+180,1,Informal message with no actionable request
+181,1,Spam advertisement with no actionable request
+182,1,Email contains only news snippets with no actionable request
+184,1,Informational daily report with no required action
+185,2,Needs coordination to handle incoming pipeline inquiries
+186,3,Schedule download failed and requires immediate manual intervention
+187,1,Informational news with no required action
+188,2,Request asks for a response but has no urgent deadline
+189,1,"Informational news summary, no action required"
+190,1,Contains responses and no urgent action required
+191,1,Email confirms bug fix and requires no further action
+193,1,The email contains a joke and requires no action
+194,1,Informational news update with no required action
+195,1,Forwarded personal email with no actionable request
+196,1,"Email contains no actionable request, only a comment"
+197,1,"Informational news digest, no action needed"
+198,1,"Informational invitation, no action required"
+199,1,"Informational newsletter, no action required"
+200,2,Request for a change but no urgent deadline
+201,2,Needs to invite a person but not urgent
+204,1,"Email contains no actionable request, only commentary"
+205,1,Informational update with no required action
+206,1,"Promotional ticket offer, no urgent action required"
+207,3,Meeting scheduled for today requires immediate attention
+208,1,Informational content with no required action
+209,2,Contains a question needing a response but not urgent
+210,1,Informational news with no required action
+212,1,"Order confirmation email, no action needed"
+213,1,"Informational update about proposals, no immediate action needed"
+216,2,Requires a response but not urgent
+217,3,Urgent due diligence required for closing
+218,1,FYI message with no required action
+220,1,Promotional email with no required action
+221,1,"Sender explicitly asks to ignore, no action required"
+222,1,"Spam advertisement, no action required"
+223,1,"Promotional seminar announcement, no action required"
+224,1,Informational newsletter with no required action
+226,1,Informational email with no urgent action required
+227,2,Needs acknowledgment and accounting update but not urgent
+228,2,Request for clarification on cost estimates requiring a response
+229,1,"Informational newsletter, no action required"
+230,1,"Bounce notification, no action required"
+232,1,"Promotional deal alert, no action required"
+234,1,Promotional reward email with no required action
+235,1,"Informational forward about a party, no action required"
+236,3,Urgent request for an immediate phone call
+237,1,"Newsletter with stock info, no action required"
+238,1,"Informational newsletter, no action required"
+239,2,Request for response but no urgent deadline
+240,1,"Informational registration confirmation, no action required"
+241,1,"No actionable request, just a scheduling note"
+242,1,Promotional email with no required action
+243,1,Informational announcement with no required action
+244,1,Forwarded informational email with no clear action required
+245,2,"Meeting request to debrief, needs response but not urgent"
+246,1,Spam marketing email with no actionable request
+247,3,Pending legal approvals for many entities require urgent action
+248,1,Promotional email with no required action
+250,1,The email is a forwarded message with no clear action required
+251,2,Needs response to confirm remote attendance
+252,1,"Just a thank‑you note, no action required"
+254,2,"Sender indicates unavailability and suggests meeting proceed, requiring response"
+255,2,Technical issue requiring clarification but not urgent
+256,1,"Just a suggestion, no action required"
+258,1,Informational reminder with no required response
+259,2,Social invitation that needs a reply but is not urgent
+260,1,"Informational stock news alert, no action required"
+261,1,No actionable request or urgency identified
+262,1,The email is an informational archive log with no actionable request
+263,1,"Informational newsletter, no action required"
+264,1,"Email provides information only, no action required"
+265,1,Informational update with no required action
+266,1,Sarcastic comment with no clear actionable request
+267,1,"Informational newsletter, no action required"
+268,1,Informal message with no clear action required
+269,1,Informational forward about a past meeting with no action required
+270,1,"Informational announcement, no action required"
+271,1,Informational announcement with no action required
+272,2,Requires a response but not urgent
+273,1,Informational announcement with no required action
+274,1,"Informational news about hearings, no action required"
+275,2,Requires response to address listed document issues
+276,1,Informational FYI with no action required
+277,1,Informational devotional message with no required action
+278,1,Informational newsletter with no required action
+284,1,Informational FYI with no required action
+286,2,Needs a timely response to confirm meeting time
+287,1,"Informational newsletter, no action required"
+288,2,Needs clarification on deal ownership and response
+289,2,Requires a response but not urgent
+290,1,"Spam promotional email, no action needed"
+291,1,Casual forward with no required action
+293,1,Content is non-urgent and informational
+294,1,"Promotional email, no action needed"
+295,2,Needs response to review quotes before tomorrow
+296,1,It's a press release with no actionable request
+297,3,Press conference notice for today requires immediate attention
+298,1,The email only contains a thank you and no actionable request
+299,1,"Informational update, no action required"
+300,1,"Informational comment, no action required"
+301,1,"Informational newsletter, no action required"
+302,1,"Informational update, no immediate action needed"
+304,2,Requires action to pack boxes by a specific date
+305,1,The email provides an informational update with no clear action required
+306,1,Promotional content with no action required
+309,1,"Spam promotional email, no action needed"
+311,1,"No clear request or urgency, appears informational"
+312,1,Informational clarification with no urgent action required
+313,1,Email is informal with no clear actionable request
+314,1,"Promotional spam, no action required"
+315,2,Requires arranging a replacement but not urgent
+316,3,Urgent request to set up a call today
+317,1,"Friendly social invitation, no urgent action required"
+318,1,It's an informational newsletter with no required action
+319,2,Meeting request requires timely response
+320,1,Informational email with no action required
+321,1,The email appears to be a forwarded message with no clear request or urgency
+323,1,Promotional spam with no actionable request
+324,3,Urgent agenda for today's conference call requires immediate attention
+325,1,"Informational announcement, no action required"
+328,3,Schedule download failed and requires immediate manual intervention
+329,1,"Marketing email, no action required"
+330,1,"Sender states there is no hurry, indicating low priority"
+331,1,"Promotional email, no action required"
+332,2,Provides feedback requiring revisions but not urgent
+333,1,Simple forwarded message with no clear action required
+334,1,"Promotional event invitation, no action required"
+335,1,"Promotional fare sale alert, no urgent action required"
+336,1,Informational forward with no action required
+337,2,Request for document revisions requiring a response but no urgent deadline
+338,2,Request for access needs a response but is not urgent
+339,2,Requires a response but not urgent
+340,1,"Informational hoax notice, no action required"
+341,3,Bill must be paid by COB 11/27 to avoid loss of market participation
+342,1,"Contains only press materials, no action required"
+343,3,Subject marked urgent and asks for clarification requiring immediate attention
+344,1,The email contains only a brief comment with no actionable request
+345,2,Provides updated tracking document requiring review
+347,1,Email is a brief thank you with no required action
+348,2,"Request to discuss agreement, requires response but not urgent"
+349,2,Request for clarification requires a response but is not urgent
+350,1,Contains only product details with no clear request
+351,2,Needs review and comments under time constraints
+352,1,"Informational news summary, no action required"
+353,3,Contains sensitive credentials requiring immediate action
+354,1,"Informational newsletter, no action required"
+356,1,Email contains only contact info and a forwarded header with no actionable request
+357,2,Contains a request for assistance but no immediate deadline
+358,1,"Promotional travel deal email, no action required"
+359,1,Informational update with no required action
+360,1,Vague request with no clear action or urgency
+361,1,"Promotional spam, no action required"
+362,3,Meeting request for tomorrow requires immediate attention
+363,1,Informational update about meeting schedule
+364,1,Informational forward with no urgent action required
+365,2,Follow-up on legal claim discussion requires a response
+366,1,Email is informational with no clear action required
+367,1,"Informational thank‑you, no action required"
+369,2,"Request to resend email, requires action but not urgent"
+370,1,Informational email with no required action
+371,1,"Provides schedule information, no action required"
+372,1,FYI message with no required action
+373,1,Promotional event invitation with no urgent action required
+375,2,Performance feedback request requires response
+376,1,No urgent request or action needed
+377,1,"Informational newsletter, no action required"
+378,3,Need slides prepared by Wednesday morning
+379,1,"Informational news, no action needed"
+380,2,"Request for information about a deal, needs a response but not urgent"
+382,1,Informational forward with no action required
+383,1,Friendly catch‑up email with no actionable request
+384,1,FYI update with no action required
+385,2,Requires a response but not urgent
+386,2,Needs coordination and response but no immediate deadline
+387,1,"Unsolicited promotional email, no action required"
+388,1,Heads-up with no actionable request
+389,2,"User requests electronic documents, needs a response but not urgent"
+390,2,Requires clarification response but not urgent
+391,2,Invitation requires a response but is not urgent
+392,2,Request requires assistance to finalize approval
+394,2,"Needs clarification about Dave's involvement, requires a response"
+395,1,"Informational update confirming the dog is safe, no action needed"
+396,1,"Promotional newsletter, no action required"
+397,2,"Request for review and coordination, but not urgent"
+398,1,Promotional coupon email with no urgent action required
+399,2,Requires action on approvals and scheduling
+400,1,Newsletter with no action required
+401,1,Vague informal greeting with no actionable content
+402,3,Potential market manipulation allegation requires immediate investigation
+404,2,Requires a response to adjust hotel room assignments
+405,1,Informational forward with no action required
+406,2,Requires response but not urgent
+407,2,"Request to print documents, requires action but not urgent"
+408,2,"Request to forward a message, needs action but not urgent"
+409,1,Informational update with no required action
+410,2,Business partnership proposal requiring a response
+412,1,"Informational notice about travel, no action needed"
+413,1,Promotional invitation with no required action
+415,1,"Promotional email with past deadline, no immediate action required"
+416,1,Forwarded joke email with no actionable request
+417,1,The email is a forwarded informational message with no clear action required
+418,2,Requires legal coordination to decide on contract suspension
+419,1,Informational email with no required action
+420,3,Urgent financial/legal update requiring immediate attention
+421,3,Urgent request for draft needed ASAP
+422,1,"Promotional advertisement, no action required"
+423,3,Urgent scheduling needed to avoid missing April deadline
+424,2,Invitation requires RSVP but not urgent
+426,1,"Informational daily summary, no action required"
+427,1,Promotional spam with no actionable request
+428,2,The email asks a question that requires a response
+429,1,Informational guidance with no urgent action needed
+430,1,Informational reply with no required action
+431,1,"Informal casual request, no urgent action needed"
+432,1,"Agenda is informational, no immediate action required"
+434,2,Requires response to discuss draft order
+435,1,"Informational alert about rate increase, no action required"
+436,2,Requires a response to address contractual obligations
+437,2,Request for contact information requires a response but is not urgent
+439,1,"Informational stock news alert, no immediate action required"
+440,1,"Spam advertisement, no action required"
+441,1,Informational email with no action required
+442,1,"Product announcement, no action needed"
+443,2,Contains upcoming conference call details that need preparation
+444,3,Potential personal safety threat requiring immediate attention
+445,1,"Informational travel update, no action required"
+448,1,Forwarded informational email with no clear action required
+449,1,"Informational news broadcast, no action required"
+450,1,Informal update with no required action
+451,2,"Email contains a request to review a thesis, requiring a response but not urgent"
+452,1,"Informational update about participant unavailability, no action needed"
+453,2,"The email asks for a decision on meetings, requiring a response but not urgent"
+454,2,Request to prepare a draft schedule requires a response
+455,1,Informal update with no urgent action required
+456,2,Needs clarification and response but not urgent
+457,1,"Informational newsletter, no action required"
+458,2,"Request for document review and proposed changes, requires a response but not urgent"
+459,1,"Informational news about Enron, no action required"
+460,1,The email is a forwarded informational note with no clear action required
+461,1,"Informational list of articles, no action required"
+462,1,Informational update with no immediate action required
+463,1,Informational update with no required action
+464,2,Request for detailed breakdown requires a response but is not urgent
+465,3,Urgent operational request for gas movement today
+467,2,Request to reissue a document requires a response
+468,2,Needs clarification on attendee inclusion
+469,1,Informational reply with no urgent action needed
+470,1,Informational update with no urgent action required
+471,1,"Promotional daily verse email, no action required"
+472,1,Promotional spam with no required action
+474,1,Promotional email with no required action
+475,1,Informational FYI with no immediate action required
+476,2,Request for transaction documents needs a response but no urgent deadline
+477,1,No actionable request or content present
+479,1,"Spam promotional content, no action required"
+480,2,Needs a response but not time-sensitive
+481,1,Informational forward with no action required
+482,1,"Promotional email, no action required"
+483,2,Requires response to confirm attendance before the scheduled call
+484,2,Needs a response to assign reviewer before submission
+485,1,"Informational newsletter, no action required"
+486,2,Job application needs a response but is not urgent
+487,1,Informational email with no required action
+488,2,Request for comments and meeting scheduling
+489,1,Email is informational about a past event with no required action
+490,1,Informational update with no required action
+491,1,Informational FYI with no required action
+492,2,Request to coordinate negotiation requires a response
+493,1,Promotional email with no required action
+494,3,Meeting scheduled for tomorrow requires immediate attention
+496,3,Harassing language requires immediate attention
+497,1,"Informational update about volume change, no action required"
+498,1,Informational FYI with no action required
+499,1,"Informational, no action needed"
+500,1,Informational welcome message with no required action
+501,3,HourAhead schedule download failed requiring immediate manual intervention
+502,1,Spam content with no actionable request
+504,2,Needs response to address resource allocation and exposure concerns
+506,1,Informational update with no required action
+507,2,Needs scheduling confirmation for upcoming dates
+508,1,Email is informational and does not require urgent action
+509,1,"No actionable request, just a casual comment"
+510,1,Promotional email with no urgent action required
+511,1,The email is an informational update with no immediate action required
+512,1,Informational email with no required action
+513,1,Unsolicited message with no actionable request
+514,1,Promotional spam with no required action
+515,1,"Informational update, no action required"
+516,1,"Informational receipt, no action required"
+517,2,Request for legal opinion requires a response but is not urgent
+519,1,Informational event announcement with no required action
+520,1,Email is spam advertisement with no actionable request
+521,1,Promotional conference announcement with no required action
+522,3,Schedule download failed and needs immediate manual intervention
+523,1,Informational market update with no required action
+524,1,Informational newsletter with no required action
+525,1,Marketing newsletter with no required action
+526,1,"Promotional trial expiration notice, no urgent action required"
+528,2,"Sender shares personal issue and may need a response, but no urgent deadline"
+529,3,Urgent deadline requires immediate action
+530,1,Forwarded message appears informational with no clear action required
+531,2,"Request to evaluate a distribution service, needs a response but not urgent"
+533,1,Informational news with no required action
+534,1,"Informational newsletter, no action required"
+535,1,Informational comment with no required action
+536,1,"Spam email about credit, no action needed"
+537,3,Event details for tonight require immediate response
+538,1,"Provides schedule information only, no action required"
+539,1,"Informational conference announcement, no action required"
+540,1,Forwarded chain appears to be spam with no actionable request
+541,1,Informational invitation with no urgent action required
+543,2,Requires clarification response but not urgent
+544,1,Informational email with no urgent action required
+545,1,Promotional newsletter with no actionable request
+546,1,"Promotional travel deal email, no action required"
+547,1,"Informational update about settlement filing, no action required"
+549,2,"Request for information, needs a response"
+550,1,"Informational health tip, no action required"
+552,1,Informational update with no required action
+553,1,Generic forwarded warning without actionable request
+554,2,Schedule change requires attendees to adjust plans
+555,2,Request for comments by Monday
+556,1,"Just an update, no immediate action required"
+557,2,"Requires a response to arrange a lunch date, but not urgent"
+558,2,"The sender asks for information, requiring a response but not urgent"
+559,1,Email contains only headers with no clear actionable request
+560,1,"Provides meeting call-in details, no action required"
+561,3,Schedule download failed and requires immediate manual intervention
+563,1,"Informational news article, no action required"
+564,1,"Promotional spam with expired offer, no action needed"
+565,1,"Email contains no actionable request, only a rude comment"
+567,1,"Informational announcement, no action needed"
+568,1,Email contains a comment with no clear action or deadline
+569,3,Urgent request for binder items before today's deadline and tomorrow's meeting
+571,1,No actionable request or urgency detected
+572,2,Needs a response about scheduling availability
+573,1,Informational update with no required action
+574,2,Needs clarification response
+576,1,Forwarded informational email with no clear action required
+577,1,Informational forward with no action required
+578,3,Contains sexual harassment content requiring immediate attention
+579,2,Invitation requires a response but no urgent deadline
+580,1,"Promotional spam, no action required"
+581,2,Requires response to address outstanding issues
+582,3,Urgent legislative changes and financial actions require immediate attention
+583,2,Requires response but no urgent deadline
+584,1,Provides informational data with no required action
+585,2,Request for information but not time-sensitive
+586,1,Informational update with no immediate action required
+587,1,"Informational newsletter, no action required"
+588,1,Acknowledgment email with no action required
+589,2,Sender missed meeting and may need to coordinate a response
+590,1,"Email contains only images and promotional content, no actionable request"
+591,2,Request for meeting schedule requires a response but is not urgent
+592,1,Email is a forwarded chain with no clear action required
+594,2,"Invitation to go kayaking, needs response but not urgent"
+595,1,"Simple thank-you note, no action required"
+596,1,Informational newsletter with no required action
+597,1,"Informational reservation confirmation, no immediate action required"
+598,1,Informational FYI with no required action
+599,2,Needs a friendly response but not urgent
+600,1,Informational update with no required action
+601,1,Informational conference announcement with no required action
+602,2,Forwarded for review without urgent deadline
+603,2,Sender raises concerns needing clarification
+604,1,Forwarded informational email with no clear action required
+605,1,Enthusiastic forward with no action required
+606,1,Promotional spam email with no required action
+607,1,"Unsolicited promotional email, no action required"
+608,1,"Promotional offer, no action required"
+609,1,Promotional content with no actionable request
+610,3,Urgent request to arrange a discussion this afternoon
+611,1,Informational announcement about organizational changes
+612,2,Request for template requires a response but is not urgent
+613,1,Promotional newsletter with no required action
+614,1,"Forwarded informational summary, no action required"
+615,1,Message contains no actionable request or urgency
+616,1,"Informational news summary, no action required"
+617,1,Email is a forwarded informational message with no clear action required
+618,1,Promotional content with no actionable request
+619,1,Informational FYI with no required action
+620,1,"Informational announcement, no action needed"
+621,3,Schedule download failed and requires manual intervention
+622,2,"Needs clarification on points calculation, not urgent"
+624,1,"Informational daily blessing email, no action required"
+626,1,Informational invitation with no urgent action required
+627,2,Requires clarification response but not urgent
+628,1,Informational news alert with no required action
+630,1,Informational email with no required action
+631,2,"Sender requests clarification about the Formosa deal, needing a response but not urgent"
+632,1,"Informational list of articles, no action required"
+633,2,"Request for tour guide assistance in July, not urgent"
+634,2,Question about truck windows requires a response but not urgent
+635,2,Request to proceed and consider expansion without urgent deadline
+636,2,User requests printing suggestions for a satire
+637,1,Newsletter content is informational with no required action
+638,3,Urgent reminder about today's info sessions
+639,2,Needs response to coordinate vacation dates
+641,1,"Promotional marketing email, no action required"
+642,1,"Spam promotional email, no action required"
+643,2,Invitation requires RSVP
+644,1,"Apology for not attending, no action required"
+645,1,"Informational announcement about event, no action required"
+647,1,"Spam promotional email, no action needed"
+648,1,Informational summary with no required action
+649,1,"FYI request to add to calendar, no urgent action required"
+650,1,Promotional newsletter with no required action
+651,1,Informational invitation with no required action
+652,1,Simple acknowledgment with no required action
+653,2,Requires updating confirmation language but not urgent
+654,1,"Promotional travel deal email, no action required"
+655,2,Sender asks for confirmation of receipt
+656,1,"Informal personal comment, no action required"
+657,1,"Informational newsletter, no action required"
+658,3,Reminder for same-day flu shots requiring immediate action
+659,2,Needs clarification and decision on property closing conditions
+660,2,Needs response about house options
+662,1,Message is a confused personal note with no urgent request
+663,1,Informational forward with no action required
+664,3,Urgent operational and financial issue requiring immediate attention
+665,3,Meeting scheduled for tomorrow requires immediate attendance
+666,2,Requires response to report conclusions but not urgent
+667,3,Meeting scheduled for tomorrow requires immediate attendance
+668,1,"Informational news summary, no action required"
+669,1,Press release announcement with no required action
+670,1,"Spam advertisement, no action required"
+671,3,Urgent operational issue with demand swings and contract changes requires immediate attention
+672,1,Email is only informational with no required action
+673,1,Informational email with no required action
+674,1,"Informational event announcement, no action required"
+675,3,Urgent concern about production this weekend requires immediate attention
+677,1,Forwarded informational content with no clear action required
+679,3,Requires comments by tomorrow for a FERC submission
+680,2,Requires follow‑up on committee and peer group actions but not urgent
+681,2,Needs clarification and response but no urgent deadline
+682,1,It's a routine newsletter notice with no required action
+683,2,Needs response but not urgent
+684,2,Requires response to coordinate storage move
+685,1,"Informational news about lawsuits, no immediate action required"
+687,1,Promotional spam with no required action
+688,1,"Informational notice about past conference, no action required"
+689,1,"Unsolicited promotional email, no action required"
+691,1,Email is an informational update with no actionable request
+692,1,"Generic solicitation, no urgent action required"
+693,2,"Request to email someone and await a callback, not urgent"
+695,1,Informational notice about missing meeting
+696,1,Informal personal email with no actionable request
+699,1,Email is informal with no urgent action required
+700,1,"Social event invitation, no urgent action required"
+701,1,Informational survey email with no immediate action required
+702,3,Schedule download failed and needs immediate manual intervention
+703,1,"Just a forwarded cheer, no action required"
+704,2,Needs a response to confirm meeting time but not urgent
+705,1,Promotional spam with no required action
+706,1,"Spam advertisement, no action required"
+707,1,Email contains only forwarded humor with no actionable request
+708,1,"Promotional spam, no action required"
+709,1,"Spam advertisement, no action needed"
+710,2,Needs clarification on missing books
+711,1,"No action required, just informal update"
+712,1,"Subject only mentions a conference call, no actionable content"
+713,1,"Promotional travel deal, no action required"
+714,1,Informational newsletter with no required action
+715,1,"Informational article, no action required"
+716,1,"Order confirmation email, no action required"
+717,2,Needs a response regarding safety concerns
+718,1,"Informational forwarded message, no action required"
+719,2,Contains a request for input on committee structure but not time‑critical
+720,1,Informational newsletter with no required action
+721,3,Schedule download failed and needs immediate manual intervention
+722,2,Needs response to address legal issues
+723,2,Requires updating contact info and addressing attached data requests
+724,1,"Brief informal meeting request, no urgent action required"
+725,1,Informational FYI with no required action
+727,1,"Informational announcement, no action required"
+728,2,Needs same-day password setup for upcoming launch
+729,1,Informational event notice with past deadline
+730,1,"Informational news alert, no immediate action required"
+731,2,Limited tickets require timely purchase
+732,2,Request asks for prompt review and advice
+733,3,Urgent media payment issue likely to resurface tomorrow
+734,1,Email contains only informal thanks with no actionable request
+735,1,Informational forward with no action required
+737,1,"Email contains only forwarded humorous quotes, no action required"
+739,1,"Promotional spam, no action required"
+741,1,Informational article with no required action
+742,1,"Informational personal anecdote, no action required"
+743,2,Needs forwarding to groups
+744,3,Urgent action needed before Tuesday to address switching risk
+745,3,Upcoming meeting early next week requires immediate attention
+746,2,The email requests a response but lacks urgent language
+747,1,Informational newsletter with no required action
+748,2,Needs response but not urgent
+749,2,The email asks for guidance on filing comments and requires a response
+750,2,"Request for information about changing cell phones, needs a response but not urgent"
+752,1,"Informational event announcement, no action needed"
+753,3,Urgent legal accruals needed before arbitration decision
+754,2,Needs review and feedback on draft letter
+755,1,Informational content with no required action
+756,1,Informational FYI with no action required
+757,2,User asks for vacation details requiring a response
+759,1,Forwarded informational email with no clear action required
+760,2,Request for action on timeline and coordination
+761,3,"Meeting and documents are due today, requiring immediate action"
+762,2,Needs clarification response but not urgent
+763,1,Promotional email with no required action
+764,1,Informational forwarded email with no clear action required
+765,1,Informational update with no urgent action required
+766,3,"Urgent request to help a girl, time-sensitive"
+767,1,"Spam promotional email, no action needed"
+768,1,"Informational update about acquisition, no action required"
+769,1,"Email only confirms attendance, no action required"
+770,2,Requires review and response but not urgent
+771,1,Informational monthly update with no required action
+772,1,Promotional informational email with no required action
+774,2,"Request to get in touch with Greg, no urgent deadline indicated"
+776,2,Needs a response to confirm coffee plans
+777,1,Informational forward with no required action
+778,1,Promotional email with no required action
+779,1,Message contains only a brief 'Please' with no clear action required
+781,1,"FYI only, no action needed"
+782,1,Informational news article with no required action
+783,2,Needs a response to address concerns
+784,1,"Informational reply, no action required"
+785,1,Promotional content with no required action
+786,1,Email is an FYI forward with no clear action required
+787,2,Needs a personal response but not urgent
+788,1,"Promotional daily verse email, no action required"
+789,1,"Informational announcement, no action required"
+790,1,Spam promotional email with no required action
+791,1,"Promotional donation request, no urgent action required"
+793,1,Informational reminder about enrollment with optional response
+794,1,"Spam promotional content, no action required"
+795,1,FYI message with no required action
+796,2,Request for information requiring a response but not urgent
+798,1,"Condolence message, no action required"
+799,2,Requires a response to arrange flower pickup
+800,1,It's a forwarded virus warning with no urgent action required
+801,1,"Cancellation notice, no action required"
+802,1,"Informational, no action required"
+803,1,Informational update with no required action
+804,1,Informational update with no immediate action required
+805,2,Needs response about lunch plans
+806,1,"Email confirms approval, no further action needed"
+807,1,FYI forward with no action required
+808,2,Meeting notice requires RSVP but is not urgent
+809,1,Informational newsletter with no required action
+810,1,Promotional email with no required action
+811,1,Promotional email with no urgent action required
+812,1,"Promotional welcome email, no action required"
+813,1,"FYI only, no action required"
+814,2,"Requires a response to decide access, but not urgent"
+815,1,"Informational newsletter, no action needed"
+816,2,Requires discussion but no urgent deadline indicated
+817,2,Contains a question requiring a response but not urgent
+818,1,"Informational update, no action required"
+819,1,"Informational news summary, no action required"
+820,1,"Email contains only forwarded jokes, no action required"
+821,2,Requires coordination for internal call and contract review
+822,1,"Informational news summary, no action required"
+823,2,Request for information needed to proceed with deal matching
+824,1,Casual personal email with no urgent action required
+826,1,"Email only acknowledges information, no action needed"
+827,3,Urgent problem requiring immediate phone call
+828,1,"Event announcement, no immediate action required"
+829,2,Requires forwarding emails and review but not urgent
+830,1,Promotional content with no required action
+831,2,Requires follow‑up on pending amendment signature
+832,1,"Humorous informational content, no action required"
+833,2,Internal acquisition discussion requires response but no immediate deadline
+834,2,Request for assistance with amendment requires a response but is not urgent
+835,3,Schedule download failed and requires immediate manual intervention
+836,1,Promotional newsletter with no required action
+837,1,"Informational news alert, no action required"
+838,1,Informational newsletter with no required action
+839,3,Urgent due to time-sensitive regulatory investigation
+840,1,"Informational update, no action needed"
+841,2,Needs scheduling response but not urgent
+842,2,Requires response to review revisions before the deadline
+843,2,Membership dues request requires a response but is not urgent
+844,1,"Thank-you note, no action required"
+845,1,Informational clarification with no required action
+846,1,Promotional spam with no required action
+848,1,Informational thank-you email with no required action
+849,2,Simple meeting request requiring a response
+851,2,Requires review and handling of NDA documents
+852,1,"Informational newsletter, no action required"
+853,1,"Promotional information, no action needed"
+854,1,Email contains only forwarding headers with no actionable request
+855,1,"Automated fantasy football report, no action needed"
+856,2,Invitation requires RSVP before the upcoming event
+857,2,Request for decision on conference invitation
+858,1,Promotional email with no required action
+859,1,"Informational update about football, no action needed"
+860,1,Social invitation with no urgent action required
+861,1,"Informational update, no action required"
+862,1,Email contains only forwarded proprietary notice with no clear action required
+863,2,Needs clarification about travel plans
+864,3,Urgent action needed to schedule a call for tomorrow
+865,1,"No action required, just a personal anecdote"
+869,1,Promotional content with no required action
+870,1,Promotional content with no urgent action required
+871,1,Promotional spam with no required action
+872,1,It's a news digest with no required action
+873,3,"Event is tonight, requiring immediate attention"
+874,1,Informational announcement about a conference call with no required action
+875,1,"Promotional email, no action required"
+877,1,"Promotional marketing email, no action required"
+878,1,"Informational, no action needed"
+880,1,Joke with no actionable request
+881,1,"Informational email about ticket specials, no action required"
+882,1,"Contains news updates about Enron, no action required"
+883,1,Condolence message with no required action
+884,3,Urgent data request for investigation requires immediate attention
+885,2,Request for status update requiring a response
+886,1,Informational FYI with no required action
+887,2,"Attachment sent, requires review"
+888,1,Informational newsletter with no required action
+889,1,"Informational forwarded summary, no action required"
+890,1,Informational survey results with no action required
+891,3,Needs response before tomorrow's meeting
+892,1,"Promotional travel information, no action required"
+893,3,Reminder about a same-day meeting requiring immediate attention
+894,1,"No actionable request, just forwarded commentary"
+896,1,"Simple thank you note, no action required"
+897,2,Contains a request to respond to a colleague
+899,1,"Email contains news updates only, no action required"
+900,1,Simple forwarding request with no urgent deadline
+901,1,Promotional email with no required action
+902,1,"Newsletter informational, no action required"
+903,1,Promotional spam with no required action
+904,3,Schedule download failed and requires immediate manual intervention
+906,1,Informational copy with no clear action required
+908,2,Needs a response to discuss arguments but not urgent
+909,1,Informational content with no actionable request
+910,2,Legal document revision requires review but no urgent deadline
+911,2,"Request for clarification and assistance, but not urgent"
+912,1,Informational newsletter with no required action
+913,2,Requires a response but no urgent deadline indicated
+914,1,"Informational list of articles, no action required"
+915,1,Birthday greeting with no required action
+916,1,Informational announcement about holiday hours
+917,1,Personal forward with no required action
+918,2,Missing schedule file requires follow-up
+919,1,The email contains no clear actionable request or urgent matter
+920,2,Informational about a sponsorship event that may need a response but is not urgent
+921,2,Needs review of attached preliminary drafts
+922,1,It's a forwarded news update with no required action
+923,1,Informational invitation with no urgent action required
+924,1,"No clear request or urgency, appears informational"
+925,2,Issue with incorrectly booked deals requires response
+926,1,"Spam advertisement, no action required"
+927,1,"Informational distribution list request, no urgent action needed"
+928,2,Request for speaker and attendance info requires a response but is not urgent
+929,1,"Email contains only praise, no actionable request"
+930,2,Requires a response but no urgent deadline indicated
+931,3,Urgent contract execution needed for upcoming start date
+932,2,Needs response to provide trade count information
+933,1,"Promotional spam, no action required"
+934,1,"Informational update, no action required"
+936,1,Informational update about interview outcomes
+937,1,"Promotional marketing email, no action required"
+938,2,"Survey request, not urgent"
+940,1,"Informational news summary, no action required"
+943,2,Needs a response to provide input on standards
+945,2,Requires a response from Carol but not time-sensitive
+946,2,Sender asks for scheduling details and needs a response
+947,2,Seeking input on organizational change
+948,2,Suggestion for Thursday meeting needs response
+949,1,Forwarded chain email with no actionable request
+950,1,"Informational spam, no action needed"
+951,1,"Casual personal reply, no action required"
+953,2,Invitation requires a response but is not time-sensitive
+954,2,Request asks for action but no urgent deadline
+955,2,Requires response to discuss settlement impact but not urgent
+956,1,Email contains personal data without urgent request
+957,1,Promotional email with no required action
+958,3,Urgent conference call scheduled today
+959,1,"No actionable request, just a forwarded notice"
+960,1,Promotional email with no required action
+961,1,"Congratulatory note, no action needed"
+962,2,Needs a response but not urgent
+963,1,"Informational newsletter, no action required"
+964,1,Informational market bulletin with no required action
+965,2,Meeting invitation requires RSVP but is not urgent
+966,1,"No actionable request, informal and not urgent"
+968,2,Request for scheduling a call requires a response but is not urgent
+969,1,Forwarded informational message with no clear action required
+970,3,Urgent request for cost data needed early Friday
+971,1,Informational announcement with no required action
+972,1,Email lacks clear request or urgency
+974,1,Email contains only broken image links and no actionable request
+975,1,"Just a thank‑you note, no action needed"
+976,1,Informational update with no immediate action required
+979,2,Needs response to confirm agreement changes
+980,1,Promotional spam with no required action
+981,1,"Casual food suggestion, no urgent action required"
+982,1,Forwarded informational email with no clear action required
+983,2,Meeting request needs a timely response
+984,1,"Personal update, no action required"
+985,3,Meeting request for noon requires immediate attention
+986,1,"Informational newsletter, no action required"
+987,2,Requires response to arrange meeting and follow up today
+988,2,"Request to call and clarify issue, needs a response"
+989,1,FYI informational email with no required action
+990,1,Informational forward with no required action
+991,1,"Spam advertisement, no action required"
+992,1,Promotional email with no urgent action required
+993,1,"Informational announcement, no action required"
+994,1,"Just sharing information, no action required"
+995,2,"Request for information and discussion, not urgent"
+996,1,"Spam promotional content, no action required"
+997,1,"Promotional travel deals, no urgent action required"
+998,2,Needs coordination for court representation
+999,2,Requires response to coordinate meeting plans
+1000,1,Promotional newsletter with no required action
+1002,2,Requires review and response to finalize the letter agreement
+1003,1,Informational update about player upgrades and downgrades
+1004,2,Invitation requires a response but is not time-sensitive
+1005,2,Upcoming deadline requires response but not immediate
+1006,1,Informational reply with no immediate action required
+1007,1,"Informational update about staffing process, no immediate action required"
+1008,1,"Promotional newsletter, no action required"
+1009,2,"Request for review and analysis, not urgent"
+1010,1,"Automated fantasy football report, no action required"
+1011,1,"Informational newsletter, no action required"
+1012,3,Urgent action required to prepare closing documents for an imminent deal
+1013,1,"Promotional announcement, no action required"
+1014,2,"Request for information and written confirmation, not time-sensitive"
+1015,1,Promotional spam with no required action
+1016,1,"Informational email with product lists, no action required"
+1018,1,"Informational content, no action required"
+1019,1,"Informational announcement, no action required"
+1020,1,"Informational newsletter, no action required"
+1021,1,FYI email with no action required
+1022,1,"Informational event invitation, no action required"
+1023,1,Informational content with no actionable request
+1024,1,"No actionable request, just a forwarded personal message"
+1025,1,"Informational reply providing fax number, no action required"
+1026,1,Informational forward with no action required
+1027,1,"FYI about meeting, no action required"
+1028,1,"Informational news update, no action required"
+1029,1,Informational story with no required action
+1031,1,Informational update with no required action
+1033,2,Requires follow‑up coordination but not urgent
+1034,3,Schedule download failed and needs immediate manual intervention
+1035,1,"Email contains only a trivial spelling comment, no action needed"
+1036,1,Informational question with no urgent action required
+1038,1,Informational content with no required action
+1039,1,It's an informational newsletter with no required action
+1040,1,"Only provides contact information, no action required"
+1041,1,Email is promotional content with no actionable request
+1042,1,"Informational market report, no action required"
+1043,1,Informational campaign update with no required action
+1044,1,"User requests removal from list, no urgent action needed"
+1045,1,The email contains a personal comment with no actionable request
+1046,1,"Informational update, no action needed"
+1047,2,"Clarification request, not urgent"
+1048,1,Informational email with no clear action required
+1049,2,Requires review of attached corrections but not urgent
+1050,1,Promotional update with no required action
+1052,1,"Promotional newsletter solicitation, no action required"
+1054,1,Email is informational with no clear action required
+1055,2,"Asks about holiday plans, requires response but not urgent"
+1056,2,Request for fax and call requires response but not urgent
+1057,1,Informational update with no required action
+1058,1,Informational announcement with no required action
+1059,1,"Informational log about missing schedule, no action required"
+1060,1,"Informational announcement, no action required"
+1062,1,"Provides clarification, no action required"
+1064,1,Informational update with no urgent action required
+1065,3,Requires immediate response to confirm phone participation before noon
+1066,2,Needs scheduling response within a few weeks
+1067,2,Needs response for article approval but no urgent deadline
+1069,2,Needs a response but not urgent
+1070,1,Informational recap with no required action
+1071,2,Needs review and response but not urgent
+1072,1,"Provides requested summary, no urgent action needed"
+1073,1,"Promotional newsletter, no action required"
+1074,2,Request for meeting dates requires a response but is not urgent
+1075,1,"Email only confirms meeting, no action required"
+1076,1,Informational memo with no immediate action required
+1077,1,Forwarded note with no clear actionable request
+1078,1,"Just a thank-you note, no action required"
+1079,1,"Informational tip, no action required"
+1081,2,Suggests coordinated action requiring a response
+1082,1,Informational comment with no clear action required
+1083,1,"Promotional spam, no action required"
+1084,2,Follow-up on project issues requiring a response
+1085,1,Promotional email with no required action
+1086,1,"Informational sports update, no action required"
+1087,1,Forwarded prayer email is informational with no required action
+1088,1,"Informational newsletter, no action required"
+1089,1,"Promotional email, no action required"
+1090,1,The email is a forwarded opinion piece with no clear request or action needed
+1092,2,Requires review of attached draft documents
+1095,1,"Informational list of contacts, no action required"
+1096,1,Informational update with no required action
+1098,1,Email is informational with no explicit action required
+1099,2,Sender requests an update on the London matter
+1100,1,"Promotional survey reminder, no urgent action required"
+1101,2,Requires a response but no urgent deadline indicated
+1102,1,"Promotional spam, no action required"
+1103,1,"Informational email sharing a paper, no action required"
+1104,1,Informational email with no action required
+1105,1,Informational newsletter with no required action
+1106,2,Needs response to coordinate vacation plans
+1107,1,Informational FYI with no required action
+1108,1,"Informational news article, no action required"
+1109,1,"Email contains no actionable request, just political commentary"
+1113,1,Promotional advertisement with no required action
+1114,3,Urgent past due invoice requires immediate action
+1115,1,"Informational news article, no action required"
+1116,3,Donation collection needed by tomorrow
+1117,1,"Cancellation notice, no immediate action required"
+1118,1,"Spam marketing email, no action needed"
+1119,1,Promotional event invitation with no urgent action required
+1120,1,"Promotional spam, no action required"
+1121,1,Informational marketing summary with no required action
+1122,2,Needs coordination for a meeting by Wednesday
+1123,1,"Promotional spam, no action required"
+1125,1,Informational news update with no immediate action required
+1127,1,"Informational update about hearings, no action required"
+1128,1,Informational email with no actionable request
+1129,3,High importance request for missing information
+1130,1,Invitation is informational with no urgent action required
+1131,1,Informational HR announcement with no required action
+1132,1,"Informational article, no action required"
+1133,1,"Informational announcement about a conference, no action required"
+1135,1,Informational news with no required action
+1136,1,"Informal, non‑urgent message with no clear actionable request"
+1137,1,"Promotional spam, no action required"
+1138,1,Email is a routine meeting notice with no urgent action required
+1139,2,Contains a request for follow‑up about a job interview
+1141,3,Requires prompt scheduling of a meeting before the upcoming conference
+1142,2,"Invitation to info session, response needed but not urgent"
+1143,1,"Informational notice about availability, no action required"
+1144,1,"Friendly check‑in, no action required"
+1145,1,"Informational email about a service, no action required"
+1147,1,"Informational thank-you, no action needed"
+1148,3,Urgent deal execution needed for tax reasons
+1149,1,"Informational about new locations, no action required"
+1150,1,Promotional newsletter with no required action
+1151,2,Needs internal discussion and response but not urgent
+1152,2,Contains action items requiring a response but no urgent deadline
+1154,1,Promotional content with no required action
+1155,1,"No actionable request, just informational"
+1156,3,Missing schedule file requires immediate attention
+1157,1,Informational internal announcement with no required action
+1158,1,Promotional email with no actionable request
+1159,2,Needs response to coordinate document review

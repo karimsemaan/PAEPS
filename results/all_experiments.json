@@ -1,0 +1,237 @@
+[
+  {
+    "experiment_id": "exp_1a_metadata_logistic_regression",
+    "experiment_name": "Experiment 1A: Metadata-Only - Logistic Regression",
+    "model_type": "LogisticRegression",
+    "features_used": [
+      "metadata",
+      "temporal",
+      "urgency"
+    ],
+    "hyperparameters": {
+      "max_iter": 1000,
+      "class_weight": "balanced",
+      "multi_class": "multinomial",
+      "solver": "lbfgs"
+    },
+    "cv_results": {
+      "macro_f1_mean": 0.4183515610311206,
+      "macro_f1_std": 0.011824418706610246,
+      "macro_f1_scores": [
+        0.40070019154937575,
+        0.41040210038421127,
+        0.42207279950268517,
+        0.4352543149462862,
+        0.4233283987730447
+      ],
+      "weighted_acc_mean": 0.48640000000000005,
+      "weighted_acc_std": 0.0111821285987955,
+      "weighted_acc_scores": [
+        0.476,
+        0.472,
+        0.491,
+        0.503,
+        0.49
+      ],
+      "per_class_f1_mean": {
+        "1": 0.5462511383376457,
+        "2": 0.5034123658166945,
+        "3": 0.20539117893902184
+      },
+      "per_class_f1_std": {
+        "1": 0.02174628314771322,
+        "2": 0.010735341240771796,
+        "3": 0.021798930328938277
+      },
+      "per_class_precision_mean": {
+        "1": 0.6605021769093462,
+        "2": 0.4981026263672689,
+        "3": 0.12925976734592887
+      },
+      "per_class_recall_mean": {
+        "1": 0.4661625708884688,
+        "2": 0.5099807714059496,
+        "3": 0.5019607843137255
+      }
+    },
+    "training_time_seconds": 0.049129486083984375,
+    "timestamp": "2025-11-21T18:09:16.890209",
+    "notes": "Baseline using only metadata features (no text). Linear model."
+  },
+  {
+    "experiment_id": "exp_2a_text_naive_bayes",
+    "experiment_name": "Experiment 2A: Text-Only - Naive Bayes",
+    "model_type": "MultinomialNB",
+    "features_used": [
+      "text_tfidf"
+    ],
+    "hyperparameters": {
+      "alpha": 0.1,
+      "tfidf_max_features": 5000,
+      "ngram_range": "(1, 2)"
+    },
+    "cv_results": {
+      "macro_f1_mean": 0.5974260125458578,
+      "macro_f1_std": 0.03544901490126453,
+      "macro_f1_scores": [
+        0.537546347793845,
+        0.5862255001856329,
+        0.6047024935590323,
+        0.6137757776879538,
+        0.6448799435028248
+      ],
+      "weighted_acc_mean": 0.6973999999999999,
+      "weighted_acc_std": 0.005535341001239224,
+      "weighted_acc_scores": [
+        0.698,
+        0.695,
+        0.69,
+        0.697,
+        0.707
+      ],
+      "per_class_f1_mean": {
+        "1": 0.729866020356497,
+        "2": 0.6934180735918811,
+        "3": 0.3689939436891953
+      },
+      "per_class_f1_std": {
+        "1": 0.009594686149711035,
+        "2": 0.008016591282240547,
+        "3": 0.1098903982963379
+      },
+      "per_class_precision_mean": {
+        "1": 0.8043274914099318,
+        "2": 0.6253121907547465,
+        "3": 0.4357758031442242
+      },
+      "per_class_recall_mean": {
+        "1": 0.6684310018903592,
+        "2": 0.7785227915394186,
+        "3": 0.32211764705882356
+      }
+    },
+    "training_time_seconds": 0.02301311492919922,
+    "timestamp": "2025-11-21T18:09:23.927905",
+    "notes": "Baseline using only text features (TF-IDF). No context information."
+  },
+  {
+    "experiment_id": "exp_2b_text_linear_svm",
+    "experiment_name": "Experiment 2B: Text-Only - Linear SVM",
+    "model_type": "LinearSVC",
+    "features_used": [
+      "text_tfidf"
+    ],
+    "hyperparameters": {
+      "C": 1.0,
+      "max_iter": 2000,
+      "class_weight": "balanced",
+      "tfidf_max_features": 5000,
+      "ngram_range": "(1, 2)"
+    },
+    "cv_results": {
+      "macro_f1_mean": 0.6979899166711419,
+      "macro_f1_std": 0.011683956194746844,
+      "macro_f1_scores": [
+        0.6987431087734661,
+        0.6789506620880698,
+        0.7053486433316866,
+        0.7135940839834776,
+        0.6933130851790094
+      ],
+      "weighted_acc_mean": 0.7632000000000001,
+      "weighted_acc_std": 0.016581917862539316,
+      "weighted_acc_scores": [
+        0.78,
+        0.738,
+        0.783,
+        0.757,
+        0.758
+      ],
+      "per_class_f1_mean": {
+        "1": 0.8095684798640702,
+        "2": 0.733047424462566,
+        "3": 0.5513538456867895
+      },
+      "per_class_f1_std": {
+        "1": 0.020795355204036466,
+        "2": 0.016245089032454852,
+        "3": 0.03568304837205092
+      },
+      "per_class_precision_mean": {
+        "1": 0.816751081750899,
+        "2": 0.7335412390016772,
+        "3": 0.5096608946608947
+      },
+      "per_class_recall_mean": {
+        "1": 0.802646502835539,
+        "2": 0.7328956000452438,
+        "3": 0.6017254901960785
+      }
+    },
+    "training_time_seconds": 0.36341118812561035,
+    "timestamp": "2025-11-21T18:09:27.790826",
+    "notes": "Baseline using only text features (TF-IDF). Linear kernel SVM."
+  },
+  {
+    "experiment_id": "exp_3_combined_xgboost",
+    "experiment_name": "Experiment 3: Combined Features - XGBoost",
+    "model_type": "XGBClassifier",
+    "features_used": [
+      "text_tfidf",
+      "metadata",
+      "temporal",
+      "urgency"
+    ],
+    "hyperparameters": {
+      "n_estimators": 200,
+      "max_depth": 7,
+      "learning_rate": 0.1,
+      "subsample": 0.8,
+      "colsample_bytree": 0.8,
+      "total_features": 5009
+    },
+    "cv_results": {
+      "macro_f1_mean": 0.7217712948794586,
+      "macro_f1_std": 0.02627640950155701,
+      "macro_f1_scores": [
+        0.6884133319475229,
+        0.7231938980318381,
+        0.7423381315830909,
+        0.7578681735385451,
+        0.697042939296296
+      ],
+      "weighted_acc_mean": 0.797,
+      "weighted_acc_std": 0.01150651989091403,
+      "weighted_acc_scores": [
+        0.804,
+        0.788,
+        0.805,
+        0.809,
+        0.779
+      ],
+      "per_class_f1_mean": {
+        "1": 0.8394496979553259,
+        "2": 0.7658563719215441,
+        "3": 0.560007814761506
+      },
+      "per_class_f1_std": {
+        "1": 0.010346538905314966,
+        "2": 0.012572236030542399,
+        "3": 0.07563114370307038
+      },
+      "per_class_precision_mean": {
+        "1": 0.8231906289700885,
+        "2": 0.7722199702290766,
+        "3": 0.6933655886597063
+      },
+      "per_class_recall_mean": {
+        "1": 0.8567107750472589,
+        "2": 0.7604592240696755,
+        "3": 0.4742745098039215
+      }
+    },
+    "training_time_seconds": 84.550119638443,
+    "timestamp": "2025-11-21T18:10:57.277386",
+    "notes": "Best traditional ML baseline. Combines TF-IDF text features with all metadata."
+  }
+]

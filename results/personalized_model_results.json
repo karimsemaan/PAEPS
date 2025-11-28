@@ -1,0 +1,12 @@
+{
+  "model": "Personalized Adaptive Email Priority System (PAEPS)",
+  "overall_f1": 0.9091744628488386,
+  "overall_accuracy": 0.9305555555555556,
+  "high_confidence_f1": 0.9907094460791438,
+  "high_confidence_accuracy": 0.9937460913070669,
+  "high_confidence_coverage": 0.8883333333333333,
+  "improvement_over_baseline": 25.959332619678392,
+  "num_features": 20,
+  "num_users": 4,
+  "achieved_90_percent": true
+}

@@ -1,0 +1,28 @@
+{
+  "timestamp": "2025-11-21T20:34:34.627370",
+  "baseline": {
+    "model": "XGBoost",
+    "f1_macro": 0.7218,
+    "source": "Notebook 3"
+  },
+  "experiment_4_mlp": {
+    "f1_macro": 0.6935641176562113,
+    "accuracy": 0.778,
+    "training_time_seconds": 15.72160029411316,
+    "beat_baseline": false
+  },
+  "experiment_5_hcec": {
+    "f1_macro": 0.712031643089215,
+    "accuracy": 0.793,
+    "training_time_seconds": 3070.6309502124786,
+    "text_attention": 0.9923058152198792,
+    "context_attention": 0.007693394552916288,
+    "beat_baseline": false
+  },
+  "experiment_6_bert": {
+    "f1_macro": 0.6487278789132064,
+    "accuracy": 0.788,
+    "training_time_seconds": 1621.226670742035,
+    "beat_baseline": false
+  }
+}
