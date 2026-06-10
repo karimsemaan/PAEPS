@@ -1,0 +1,24 @@
+{
+  "_provenance": "Extracted verbatim from the executed output of notebooks/5_final_improved_models.ipynb, section 8 (Ensemble Voting), cell 16, in this repository. See results/README.md for the full metric-to-source map.",
+  "experiment_name": "Weighted soft-voting ensemble (HCEC + Context-Aware MLP)",
+  "ensemble_weights": {
+    "HCEC": 0.3,
+    "MLP": 0.7
+  },
+  "test_metrics": {
+    "macro_f1": 0.7285,
+    "accuracy": 0.79,
+    "precision_macro": 0.7158,
+    "recall_macro": 0.7448
+  },
+  "baseline_comparison": {
+    "xgboost_baseline_macro_f1": 0.7218,
+    "delta_macro_f1": 0.0067,
+    "note": "The weighted ensemble is the only configuration that beat the TF-IDF + metadata XGBoost baseline on the real LLM-annotated data."
+  },
+  "dataset": "Enron corpus, ~25,640 emails, 3-class priority labels (LLM-annotated via Groq API)",
+  "member_probability_files": [
+    "results/predictions/hcec_test_probs.npy",
+    "results/predictions/mlp_test_probs.npy"
+  ]
+}
