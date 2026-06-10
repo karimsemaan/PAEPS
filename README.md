@@ -6,19 +6,19 @@
 
 ## Overview
 
-INTELIPS is a personalized email prioritization system that learns user-specific importance patterns. Unlike traditional approaches that treat all users identically, INTELIPS uses user embeddings to understand that the same email may have different priorities for different people.
+INTELIPS is an email prioritization system built on the Enron corpus. An LLM (served via the Groq API) auto-labels ~25,640 emails into three priority levels, then five architectures are trained and benchmarked against each other: a TF-IDF + metadata XGBoost baseline, a context-aware MLP, a BERT + attention model, fine-tuned BERT, and PAEPS, an exploratory personalization network with per-user embeddings.
 
-**Key Results:**
-- **90.91% F1 Score** with personalized model (PAEPS)
-- **99.07% F1 Score** on high-confidence predictions (88.8% coverage)
-- **+25.96% improvement** over baseline models
-- **25,640 emails** annotated using Groq API for ~$10
+**Key Results (real LLM-annotated data):**
+- **72.85% macro-F1** with a weighted ensemble, the best real-data result
+- **72.18% macro-F1** XGBoost baseline (the spread across all five architectures is small)
+- **25,640 emails** annotated using the Groq API for ~$10
+- A separate personalization experiment on synthetic personas reached 90.91% F1; that figure is **not comparable** to the numbers above (see [Earlier synthetic-label experiment](#earlier-synthetic-label-experiment-paeps-personalization))
 
 ## Research Question
 
 *Can we build an email prioritization system that learns personalized importance patterns for different users?*
 
-**Key Insight:** A simple model that understands WHO is reading the email dramatically outperforms complex models that only understand WHAT is written.
+**Honest takeaway:** on real LLM-annotated labels, model architecture barely matters (72.18% to 72.85% macro-F1 from a feature baseline to a weighted ensemble). The binding constraint is label quality, not network capacity. Personalization looked dramatic only on a synthetic persona set, which is exactly why that result is quarantined in the limitations section below.
 
 ## Repository Structure
 
@@ -52,15 +52,19 @@ INTELIPS_SUBMISSION/
 
 ## Models Implemented
 
+Benchmarked on the real LLM-annotated Enron data (macro-F1):
+
 | Model | F1 Score | Description |
 |-------|----------|-------------|
+| **Weighted Ensemble (best)** | **72.85%** | Weighted combination of the models below |
 | XGBoost Baseline | 72.18% | TF-IDF + metadata features |
-| Context-Aware MLP | 69.36% | Separate text/context branches |
 | HCEC (Attention) | 71.20% | BERT + multi-head attention |
+| Context-Aware MLP | 69.36% | Separate text/context branches |
 | BERT Fine-tuned | 64.87% | BERT-base-uncased |
-| **PAEPS (Ours)** | **90.91%** | Personalized user embeddings |
 
-## Key Innovation: User Embeddings
+PAEPS (personalized user embeddings) is excluded from this table: its 90.91% F1 was measured on a synthetic persona set, not on the real annotated data, so the numbers are not comparable. See [Earlier synthetic-label experiment](#earlier-synthetic-label-experiment-paeps-personalization).
+
+## Exploratory Personalization: User Embeddings
 
 We model 4 user personas with different priority patterns:
 
@@ -71,7 +75,7 @@ We model 4 user personas with different priority patterns:
 | Manager | Deadlines, milestones, project blockers |
 | Sales | Customer communications, deals, proposals |
 
-Each user receives a 20-dimensional embedding that modifies how the model weighs email features.
+Each user receives a 20-dimensional embedding that modifies how the model weighs email features. Note: these personas and their labels are synthetically constructed (no real per-user ground truth exists in Enron), so all PAEPS numbers belong to the synthetic-label experiment described below.
 
 ## Dataset
 
@@ -93,6 +97,16 @@ Each user receives a 20-dimensional embedding that modifies how the model weighs
 3. **Sender Intelligence (18%)** - Sender importance, relationship strength
 4. **Content Analysis (15%)** - Urgency keywords, sentiment
 5. **Email Context (14%)** - Reply/forward, recipients, attachments
+
+## Earlier synthetic-label experiment (PAEPS personalization)
+
+An earlier version of this README headlined **90.91% F1** (and 99.07% on high-confidence predictions at 88.8% coverage, a "+25.96% improvement over baselines"). Those numbers are real outputs of the PAEPS experiment, but it is important to be precise about what they measured:
+
+- The Enron corpus has no per-user priority ground truth, so the personalization experiment **synthetically constructed** four user personas with persona-specific priority rules, and built its dataset from generated synthetic emails plus real emails relabeled under those rules.
+- PAEPS was then trained and evaluated **on that synthetic persona set**. The 90.91% therefore measures how well the network recovers the constructed persona labeling scheme, not how well it prioritizes email for real users.
+- Because the evaluation labels come from the same persona construction that drives the personalization features, the score is inflated relative to any real-world setting and **cannot be compared** to the 72.18% to 72.85% macro-F1 results on the real LLM-annotated data above.
+
+The experiment still has value as a proof of concept: it shows the user-embedding architecture can learn strongly user-conditioned priority functions when such signal exists. Validating that on real, human-labeled, per-user data is the obvious next step, alongside auditing the LLM annotations themselves with a human-labeled gold set.
 
 ## Installation
 
